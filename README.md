@@ -8,15 +8,16 @@ Build Documents for a Drone
   * Gyroscope
   * Accelerometer
   * Radio
-  * camera
+  * camera (maybe v2)
   
 2) Motors - require an additional power source
   * Propellers
   * Servo
 
 3) Controller - Should signal to radio on RPi. doesn't need a real case at first
-  TODO: what controls do we need?
-  NOTE: stop gap - MAcbook
+  * TODO: what controls do we need?
+  * NOTE: stop gap - MAcbook
+  * Use an old dual-shock?
   
 4) Flight control board - Arduino?
 
